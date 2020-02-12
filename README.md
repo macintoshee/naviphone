@@ -9,7 +9,7 @@ Rugged android phone as dedicated motorcycle GPS (ESTONIAN)
 + Maksumus: ~ 210 - 360€
 
 
-##**1. Telefonid**
+## **1. Telefonid**
 Teadaolevatest telefonidest on hea sobivusega naviks alltoodud valik. Toodud nimekiri baseerub kommuuniliikmete isiklikul kogemusel ja internetist loetul. Kõik toodud telefonid on veekindlad, põrutuskindlad ja päikese käes nähtavad ning kannatavad nii kõrgeid, kui madalaid õhutempereatuure. Seisval tsiklil, otsese, pealelangeva päikese käes kipuvad siiski üle kuumenema, liikudes mitte.  
 
   **+ Ulefone Armor 52**
